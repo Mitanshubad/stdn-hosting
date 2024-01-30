@@ -142,6 +142,7 @@ function Navbar() {
         </div>
         <button className="mr-4 md:hidden">
           <AiOutlineMenu fontSize={23} fill="#AFB2BF" />
+          <span className="absolute -top-2 -right-2 h-4 w-4 bg-red-500 rounded-full text-white text-xs flex items-center justify-center">New</span>
         </button>
       </div>
     </div>
