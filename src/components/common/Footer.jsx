@@ -180,7 +180,7 @@ const Footer = () => {
           </div>
 
           <div className="text-center">Copyrights reserved @StudyNotion ❤️</div>
-          <div className="text-center">Developer: Suman Das ❤</div>
+          <div className="text-center">Developer: Mitanshu Badgujar❤</div>
         </div>
       </div>
     </div>
