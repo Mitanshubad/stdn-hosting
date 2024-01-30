@@ -51,13 +51,13 @@ const Footer = () => {
                 Developer's Details
               </h1>
               <h1 className="text-richblack-50 font-semibold text-[14px]">
-                <em>~ Suman Das</em>
+                <em>~Mitanshu Badgujar</em>
               </h1>
               <div className="flex gap-3 text-lg">
-                <a href="https://port-folio-pink.vercel.app/" target="_blank"><BsFilePerson /></a>
-                <a href="https://www.facebook.com/profile.php?id=100075867442618" target="_blank" ><FaFacebook /></a>
-                <a href="https://www.linkedin.com/in/suman-das-82480a224/" target="_blank"> <FaLinkedin /></a>
-                <a href="https://github.com/sumandas0404" target="_blank"> <FaGithub /></a>
+              
+              
+                <a href="https://www.linkedin.com/in/mitanshu-badgujar-25a14a202/" target="_blank"> <FaLinkedin /></a>
+                <a href="https://github.com/Mitanshubad/stdn-hosting" target="_blank"> <FaGithub /></a>
               </div>
               <div></div>
             </div>
