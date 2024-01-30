@@ -51,7 +51,7 @@ const Footer = () => {
                 Developer's Details
               </h1>
               <h1 className="text-richblack-50 font-semibold text-[14px]">
-                <em>~Mitanshu Badgujar</em>
+                <em>~ Mitanshu Badgujar</em>
               </h1>
               <div className="flex gap-3 text-lg">
               
