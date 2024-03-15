@@ -257,7 +257,7 @@ function Navbar() {
               </li>
               <li>
                 <Link to="/signup" className="text-richblack-25">
-                  Sign up
+                  Sign-up
                 </Link>
               </li>
             </>
