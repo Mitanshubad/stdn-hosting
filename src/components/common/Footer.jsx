@@ -47,17 +47,17 @@ const Footer = () => {
                   );
                 })}
               </div>
-              <h1 className="text-richblack-50 font-semibold text-[16px]">
-                Developer's Details
-              </h1>
-              <h1 className="text-richblack-50 font-semibold text-[14px]">
-                <em>~ Mitanshu Badgujar</em>
-              </h1>
+            //  <h1 className="text-richblack-50 font-semibold text-[16px]">
+               // Developer's Details
+             // </h1>
+            //  <h1 className="text-richblack-50 font-semibold text-[14px]">
+               // <em> </em>
+            //  </h1>
               <div className="flex gap-3 text-lg">
               
               
-                <a href="https://www.linkedin.com/in/mitanshu-badgujar-25a14a202/" target="_blank"> <FaLinkedin /></a>
-                <a href="https://github.com/Mitanshubad/stdn-hosting" target="_blank"> <FaGithub /></a>
+              //  <a href="https://www.linkedin.com/in/mitanshu-badgujar-25a14a202/" target="_blank"> <FaLinkedin /></a>
+               // <a href="https://github.com/Mitanshubad/stdn-hosting" target="_blank"> <FaGithub /></a>
               </div>
               <div></div>
             </div>
@@ -180,7 +180,7 @@ const Footer = () => {
           </div>
 
           <div className="text-center">Copyrights reserved @StudyNotion ❤️</div>
-          <div className="text-center">Developer: Mitanshu Badgujar❤</div>
+        //  <div className="text-center">Developer: Mitanshu Badgujar❤</div>
         </div>
       </div>
     </div>
